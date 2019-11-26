@@ -1,5 +1,5 @@
 {
-    "Mysql_Host": "sql01.staryun.cool",
+    "Mysql_Host": "sql.staryun.cool",
     "Mysql_Port": 3306,
     "Mysql_User": "v2ray",
     "Mysql_Password": "1170560647Bm",
