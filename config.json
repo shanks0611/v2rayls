@@ -16,7 +16,7 @@
     "TrafficRate": 1,
     "CheckRate": 60,
     "CheckUpdate": true,
-    "FileLog": true,
+    "FileLog": false,
     "FileLogPath": "/root/log.txt",
     "FileLogLimit": 1024,
     "NetworkCard": "eth0",
